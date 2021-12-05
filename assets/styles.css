@@ -1,0 +1,19 @@
+.drop-down{
+    width:200px;
+    margin:auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+label{
+    font-style: italic;
+}
+
+.header{
+     display: flex;
+     margin: 5px;
+}
+
+.dash-graph{
+    height: 700px;
+}
